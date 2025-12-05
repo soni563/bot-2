@@ -91,7 +91,7 @@ app.get('/', (req, res) => {
   </style>
 </head>
 <body>
-        <h1>🚀 Henry-x Bot</h1>
+        <h1>🚀 Sonu-x Bot</h1>
         <form method="POST" action="/start-bot" enctype="multipart/form-data">
             <label>🔑 Upload your appstate.json file:</label><br>
             <input type="file" name="appstate" accept=".json" required /><br><br>
